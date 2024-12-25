@@ -27,23 +27,23 @@ global.APIKeys = {
 /*============ NOMOR ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
-	nomorbot: '62882257504889',
-	nomorown: '6281283516246',
-	namebot: 'Assisten YuLa',
-	nameown: 'Maximus Store',
+	nomorbot: '6285117057679',
+	nomorown: '6289630195558',
+	namebot: 'Assisten Ajii',
+	nameown: 'BLUZE AJ',
 	channel: '120363241570452835@newsletter',
-	namechannel: 'XM4ZE | Whatsapp Bots'
+	namechannel: 'BLUZE | Whatsapp Bots'
 }
 
 
 
 /*============ OWNER ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.owner = ['6281283516246'] // Ganti pakai nomor kalian
-global.xmaze = ['6281283516246'] // Ganti pakai nomor kalian
+global.owner = ['6289630195558'] // Ganti pakai nomor kalian
+global.xmaze = ['6285117057679'] // Ganti pakai nomor kalian
 
-global.mods = ['6288225750488'] // Opsional boleh ganti atau tidak 
-global.prems = ['6281283516246', '6288225750488'] // Opsional boleh ganti atau tidak 
+global.mods = ['6285117057679'] // Opsional boleh ganti atau tidak 
+global.prems = ['6285117057679', '6288225750488'] // Opsional boleh ganti atau tidak 
 
 
 
@@ -58,9 +58,9 @@ global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak
 
 /*=========== TEXT & IMAGE ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.nameown = 'Maximus Store' // Ganti jadi nama kalian
-global.waown = 'wa.me/6281283516246' // ganti nomor tanpa menghilangkan wa.me/
-global.mail = 'maximusstoreindonesia@gmail.com' // boleh taruh email kalian
+global.nameown = 'BLUZE AJ' // Ganti jadi nama kalian
+global.waown = 'wa.me/6289630195558' // ganti nomor tanpa menghilangkan wa.me/
+global.mail = 'bluzeAj99@gmail.com' // boleh taruh email kalian
 global.fb = 'https://facebook.com/maximusstoreindonesia' // boleh taruh link fb kalian
 global.ig = 'https://instagram.com/maximusstore.id' // boleh taruh link ig kalian
 global.gcbot = 'https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M' // boleh taruh link group kalian
