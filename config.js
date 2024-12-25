@@ -5,8 +5,8 @@ import { fileURLToPath } from 'url'
 
 /*========= GLOBAL APIKEY =========*/
 // ISI APIKEY KALIAN DI BAGIAN 'ENTER YOUR APIKEY' SIMBOL JANGAN DI HAPUS
-global.btc = 'Enter your apikey' // apikey Botchax
-global.lann = 'Enter your apikey' // apikey Beta
+global.btc = 'Btz-eSwqi' // apikey Botchax
+global.lann = 'FFdM2ABf' // apikey Beta
 
 
 
@@ -18,8 +18,8 @@ global.APIs = {
 } 
 
 global.APIKeys = {
-  'https://api.betabotz.eu.org': 'Enter your apikey',
-  'https://api.botcahx.eu.org': 'Enter your apikey'
+  'https://api.betabotz.eu.org': 'Btz-eSwqi',
+  'https://api.botcahx.eu.org': 'FFdM2ABf'
 }
 
 
